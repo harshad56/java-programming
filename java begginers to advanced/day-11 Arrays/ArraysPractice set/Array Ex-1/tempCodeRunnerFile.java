@@ -1,0 +1,1 @@
+ float[] marks = new float[5];

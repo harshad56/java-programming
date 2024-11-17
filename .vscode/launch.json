@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Mian",
+            "request": "launch",
+            "mainClass": "Mian",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "SumOf1stand2nddigit",
+            "request": "launch",
+            "mainClass": "SumOf1stand2nddigit",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Sum3And5Callenge",
+            "request": "launch",
+            "mainClass": "Sum3And5Callenge",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "SumOf3Numbers",
+            "request": "launch",
+            "mainClass": "SumOf3Numbers",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "PercentageConvertot",
+            "request": "launch",
+            "mainClass": "PercentageConvertot",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Casting",
+            "request": "launch",
+            "mainClass": "Casting",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Launch Constants",
+            "request": "launch",
+            "mainClass": "Constants",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Launch Qudraticequationsolver",
+            "request": "launch",
+            "mainClass": "Qudraticequationsolver",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Launch addtwomatrix",
+            "request": "launch",
+            "mainClass": "addtwomatrix",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Launch age",
+            "request": "launch",
+            "mainClass": "age",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrays",
+            "request": "launch",
+            "mainClass": "arrays",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrays1",
+            "request": "launch",
+            "mainClass": "arrays1",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Launch comparisonoperators",
+            "request": "launch",
+            "mainClass": "comparisonoperators",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Launch datatype",
+            "request": "launch",
+            "mainClass": "datatype",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Launch example",
+            "request": "launch",
+            "mainClass": "example",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Launch input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Launch math",
+            "request": "launch",
+            "mainClass": "math",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Launch nonprimmitive",
+            "request": "launch",
+            "mainClass": "nonprimmitive",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Launch operators",
+            "request": "launch",
+            "mainClass": "operators",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Launch string",
+            "request": "launch",
+            "mainClass": "string",
+            "projectName": "Java programming_23548a59"
+        },
+        {
+            "type": "java",
+            "name": "Launch variables",
+            "request": "launch",
+            "mainClass": "variables",
+            "projectName": "Java programming_23548a59"
+        }
+    ]
+}

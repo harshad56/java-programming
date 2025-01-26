@@ -21,7 +21,9 @@ public abstract class Parent {
 /*----------------------------------SUB-1---------------------------------- */
 // child classes(child clases)
 // sub-1
+//here also child classes are concreate classes beacuse it extends the parent classes
 class Child extends Parent {
+
     // need overide method from parent class (ex-greet) or chnage class to abstract
     // class
     @Override
@@ -42,6 +44,7 @@ class Child2 extends Parent {
         System.out.println("hello child2");
     }
 }
+
 /*----------------------------SUB-3---------------------------------------- */
 // sub-3
 

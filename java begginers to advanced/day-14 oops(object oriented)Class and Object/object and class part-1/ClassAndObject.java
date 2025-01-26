@@ -1,8 +1,10 @@
 
 public class ClassAndObject {
+
     public static void main(String[] args) {
         System.out.println("here we see example class and objcet");
-        Employee harshad = new Employee();// Employee is class and we declred harshad is object,// create a instance
+        Employee harshad = new Employee();// Employee is class and we declred //here simple:-Employee is reference and right side new Employee is object  created
+        // create a instance
         Employee karan = new Employee(); // we use many object with same class,// create a instance
         /*---------------------------------------------- */
 
@@ -28,15 +30,16 @@ public class ClassAndObject {
 }
 
 class Employee {
+
     // Employee is class ,class is the blueprint of object
     int id; // it instance varaible,decalring the instance vairable static keyword not used
-            // methods
+    // methods
 
     String name;// it instance varaible,decalring the instance vairable static keyword not used
-                // methods
+    // methods
 
     int salary;// it instance varaible,decalring the instance vairable static keyword not used
-               // methods
+    // methods
 
     // here we use different methods without static keyword
     // it instance method

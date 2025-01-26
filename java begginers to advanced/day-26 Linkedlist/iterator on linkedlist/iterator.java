@@ -49,7 +49,7 @@ public class iterator {
 
     /*-------------------------------------------------------------------- */
     //ierators
-    //itertor have two type:-iterator,listiterator
+    //itertor have listiterator
     public static void printtinery2(LinkedList<String> list) {
         String prevoiusplacemnt = list.getFirst();
         ListIterator<String> iterator = list.listIterator(
